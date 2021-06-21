@@ -1,16 +1,5 @@
 {
     "name": "Octo Organization Workflow",
     "description": "Octo Organization CI workflow template.",
-    "iconName": "example-icon",
-    "categories": [
-        "Go",
-        "Terraform",
-        "*"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$",
-        ".*\\.tf$"
-    ]
+    "iconName": "example-icon"
 }
